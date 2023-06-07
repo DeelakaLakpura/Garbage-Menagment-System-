@@ -1,0 +1,78 @@
+body{
+	font-size: 20px;
+  background-color:#fff;
+  color: #000;
+}
+.center{
+  text-align: center;
+}
+.white{
+  color: white;
+}
+form{
+
+  display: inline-block;
+    margin-left: 0;
+    width: 100%;
+    padding: 10px;
+    box-shadow: 2px 4px 8px whitesmoke;
+}
+
+.name{
+  font-size: 15px;
+  padding-bottom: 10px;
+  padding-left: 8px;
+}
+input[type=text]{
+  font-size: 13px;
+  width: 95%;
+  padding:12px;
+  margin-bottom: 15px;
+  display: inline-block;
+  background: #f1f1f1;
+  border-radius: 20px;
+  border: none;
+}
+input[type=email]{
+  font-size: 13px;
+  width: 95%;
+  padding:12px;
+  margin-bottom: 15px;
+  display: inline-block;
+  background: #f1f1f1;
+  border-radius: 20px;
+  border: none;
+}
+.phone{
+  font-size: 13px;
+  width: 95%;
+  padding:12px;
+  margin-bottom: 15px;
+  display: inline-block;
+  background: #f1f1f1;
+  border-radius: 20px;
+  border: none;
+}
+input[type=password]{
+  font-size: 13px;
+  width: 95%;
+  padding:12px;
+  margin-bottom: 15px;
+  display: inline-block;
+  background: #f1f1f1;
+  border-radius: 20px;
+  border: none;
+}
+input[type=email]{
+  font-size: 13px;
+  width: 95%;
+  padding:12px;
+  margin-bottom: 15px;
+  display: inline-block;
+  background: #f1f1f1;
+  border-radius: 20px;
+  border: none;
+}
+a:link {
+    text-decoration: none;
+  }
